@@ -1,0 +1,29 @@
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  width: 150px;
+  text-align: center;
+}
+
+.btn-primary:hover{
+  transform: scale(1.2);
+  background-color: #21a96c;
+}
+
+
+.btn-secundary {
+  display: inline-block;
+  background-color: #bebebe;
+  padding: 10px 15px;
+  border-radius: 50px;
+  color: rgb(54, 54, 54);
+  width: 150px;
+  text-align: center;
+}
+.btn-secundary:hover{
+  transform: scale(1.2);
+  background-color: #6c917f;
+}
